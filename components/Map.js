@@ -14,8 +14,8 @@ const Map = () => {
   useEffect(() => {
     const map = new mapboxgl.Map({
       container: 'map',
-      style: 'mapbox://styles/drakosi/ckvcwq3rwdw4314o3i2ho8tph',
-      center: [-99.29011, 39.39172],
+      style: 'mapbox://styles/prityushparmar/cl8zyaljj00tf14ob6lptbp4i',
+      center: [28.7041, 77.1025],
       zoom: 3,
     })
 
